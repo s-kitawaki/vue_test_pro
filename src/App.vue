@@ -1,8 +1,8 @@
 <template>
   <v-app>
     <v-main>
-      <HelloWorld/>
       <h1 style="color:red;">Kitawakiが追加しました。</h1>
+      <HelloWorld/>
     </v-main>
   </v-app>
 </template>
